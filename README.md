@@ -1,3 +1,40 @@
+<h1 align="center">
+    <img src="./src/readme/logo.png">
+</h1>
+
+## 📕 About
+
+**Hamburgueria** is a project to help customers looking for products. With search options and selection of the desired product
+
+## 🔧 Tools
+
+- [Node](https://nodejs.org/en/)
+- [React](https://reactjs.org/)
+- [Axio](https://axios-http.com/docs/intro)
+- [react-toastify](https://www.npmjs.com/package/react-toastify)
+
+## ♻ How Contribute
+
+```
+bash
+#clone the project
+$git clone git@github.com:pablorzenha/hamburgueria.git
+```
+
+```
+bash
+#Enter directory
+$cd hamburgueria
+```
+
+```
+bash
+# Install the dependencies
+$npm install
+or
+$yarn
+```
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
