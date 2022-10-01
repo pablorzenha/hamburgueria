@@ -30,9 +30,9 @@ input::placeholder {
 }
 .header__container button {
   position: absolute;
-  right: 3px;
+  right: 5px;
   height: 35px;
-  top: 5px;
+  top: 10px;
 }
 
 @media screen and (max-width: 600px) {
@@ -41,7 +41,7 @@ input::placeholder {
     width: fit-content;
   }
   .header__container button {
-    top: 27.5px;
+    top: 32.5px;
   }
   input {
     width: 300px;

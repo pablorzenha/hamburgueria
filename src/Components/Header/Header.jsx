@@ -5,9 +5,13 @@ import "./styles.css";
 function Header({ setListFilter, listProduct, inputValue, setInputValue }) {
   function handleInput(event) {
     event.preventDefault();
-    const filter = listProduct.filter(
-      (product) => product.name.includes(inputValue) && product
-    );
+    const filter = listProduct.filter((product) => {
+      if (
+        product.name.toLowerCase().includes(inputValue.toLowerCase()) ||
+        product.category.toLowerCase().includes(inputValue.toLowerCase())
+      )
+        return product;
+    });
     setListFilter(filter);
   }
   return (

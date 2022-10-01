@@ -28,6 +28,13 @@ button {
   line-height: 17px;
   color: #ffffff;
 }
+button {
+  cursor: pointer;
+}
+input {
+  padding: 5px;
+  outline: none;
+}
 
 @media screen and (max-width: 600px) {
   .main__container {
