@@ -11,7 +11,8 @@
 - [Node](https://nodejs.org/en/)
 - [React](https://reactjs.org/)
 - [Axio](https://axios-http.com/docs/intro)
-- [react-toastify](https://www.npmjs.com/package/react-toastify)
+- [react-toastify](https://reactrouter.com/en/main)
+- [styled-components](https://styled-components.com/)
 
 ## ♻ How Contribute
 
