@@ -4,7 +4,7 @@
 
 ## 📕 About
 
-**Hamburgueria** is a project to help customers looking for products. With search options and selection of the desired product
+A **Hamburgueria** é um projeto proposto pela Kenzie Academy Brasil que consiste em um e-commerce de fast food. Nele, através da vitrine, podemos adicionar items no carrinho.
 
 ## 🔧 Tools
 
