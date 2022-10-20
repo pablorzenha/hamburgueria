@@ -10,7 +10,7 @@ A **Hamburgueria** é um projeto proposto pela Kenzie Academy Brasil que consist
 
 - [Node](https://nodejs.org/en/)
 - [React](https://reactjs.org/)
-- [Axio](https://axios-http.com/docs/intro)
+- [Axios](https://axios-http.com/docs/intro)
 - [react-toastify](https://reactrouter.com/en/main)
 
 
